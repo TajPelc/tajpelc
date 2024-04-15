@@ -1,4 +1,16 @@
-### Hi there 👋
+## Hey friend, thanks for stopping by!
+I help hands-on technical leads (CTOs, Engineering Managers, Tech Leads) go from being chief problem-solvers to strategic leaders.
+
+There's three stages:
+
+🔥 We put out the fires. (Analyze)
+
+💪 We empower the team, so they can take over the hands-on tasks. (Delegate)
+
+📈 We carve out time for strategic work that helps the business nail its goals. (Strategize)
+
+## My Mission
+> I’m on a mission to empower **1.000 leaders** to create **thriving tech teams** that **developers love to be in** and **businesses are proud to have**.
 
 <!--
 **TajPelc/tajpelc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
