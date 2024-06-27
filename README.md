@@ -10,7 +10,7 @@ There's three stages:
 📈 We carve out time for strategic work that helps the business nail its goals. (Strategize)
 
 ## My Mission
-> I’m on a mission to empower **1.000 leaders** to create **thriving tech teams** that **developers love to be in** and **businesses are proud to have**.
+> I’m on a mission to empower **1.000** leaders to bridge **the gap between business and tech** and refocus on **delivering value**, not **shipping features**.
 
 <!--
 **TajPelc/tajpelc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
